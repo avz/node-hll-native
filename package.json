@@ -1,7 +1,7 @@
 {
 	"name": "hll-native",
-	"version": "0.1.0",
-	"description": "Native (plain C) HLL implementation for node.js",
+	"version": "0.1.1",
+	"description": "Native (plain C and C++) HLL implementation for node.js",
 	"keywords": [
 		"hll",
 		"hyperloglog"
