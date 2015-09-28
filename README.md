@@ -58,7 +58,7 @@ Memory Usage
 | 19 |  524288 |  0.14% |
 | 20 | 1048576 |  0.10% |
 
-Protytype
+Prototype
 ==
 ```js
 /**
