@@ -1,0 +1,26 @@
+{
+	"name": "hll-native",
+	"version": "0.1.0",
+	"description": "Native (plain C) HLL implementation for node.js",
+	"keywords": [
+		"hll",
+		"hyperloglog"
+	],
+	"homepage": "https://github.com/avz/node-hll-native",
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/avz/node-hll-native.git"
+	},
+	"license": "MIT",
+	"author": "Artem Zaytsev <avz@nologin.ru>",
+	"main": "./main.js",
+	"engines": {
+		"node": ">=0.10"
+	},
+
+	"dependencies": {
+		"nan": "2"
+	},
+
+	"os": ["linux", "freebsd", "darwin"]
+}

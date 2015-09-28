@@ -1,0 +1,5 @@
+build
+nbproject
+deps/hll/*.o
+deps/hll/lib
+node_modules
