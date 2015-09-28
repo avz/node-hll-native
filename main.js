@@ -1,4 +1,3 @@
-// test.js
 var HLL = require('./build/Release/hll_native').HLL;
 
 /**
