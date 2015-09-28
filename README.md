@@ -3,7 +3,7 @@
 See http://en.wikipedia.org/wiki/HyperLogLog
 
 Example
-==
+===
 
 ```js
 var HLL = require('hll-native').HLL;
@@ -35,8 +35,8 @@ for(var n = 0; n < tries; n++) {
 [5 / 5] Approximated set size: 10000341. Elapsed time: 2118 ms
 ```
 
-Memory Usage
-==
+Memory usage and error values
+===
 
 |bits|size (bytes) | standard error  |
 |----|---------|--------|
@@ -59,7 +59,7 @@ Memory Usage
 | 20 | 1048576 |  0.10% |
 
 Prototype
-==
+===
 ```js
 /**
  * Create new HyperLogLog storage with specified size and standard error.
