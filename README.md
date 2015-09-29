@@ -2,7 +2,7 @@
 
 See http://en.wikipedia.org/wiki/HyperLogLog.
 
-Based on https://github.com/avz/hll
+Based on https://github.com/avz/hll.
 
 Example
 ===
