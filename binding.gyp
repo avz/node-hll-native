@@ -18,7 +18,7 @@
 				{
 					"action_name": "make",
 					"inputs": [],
-					"outputs": ["deps/hll/lib/libhyperloglog.a"],
+					"outputs": ["lib/libhyperloglog.a"],
 					"action": ["make", "-C", "deps/hll", "lib/libhyperloglog.a"],
 					"message": "Build libhyperloglog.a"
 				}
