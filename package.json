@@ -1,6 +1,6 @@
 {
 	"name": "hll-native",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Native (plain C and C++) HLL implementation for node.js",
 	"keywords": [
 		"hll",
